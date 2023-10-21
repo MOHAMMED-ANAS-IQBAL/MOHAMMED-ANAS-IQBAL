@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MOHAMMED-ANAS-IQBAL
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning that how to use github
-- 💞️ I’m looking to collaborate on nothimg
+- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ......
 
 <!---
