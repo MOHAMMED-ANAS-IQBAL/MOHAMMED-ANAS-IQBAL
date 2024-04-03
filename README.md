@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MOHAMMED-ANAS-IQBAL
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning that how to use github
-- 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me ......
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning BackEnd
+- 💞️ I’m looking to collaborate on FrontEnd Projects
 
 <!---
 MOHAMMED-ANAS-IQBAL/MOHAMMED-ANAS-IQBAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
