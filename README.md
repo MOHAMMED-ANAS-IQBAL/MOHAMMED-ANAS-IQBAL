@@ -39,7 +39,7 @@ I've completed multiple AI/ML internships, including the **IBM SkillsBuild Inter
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
 - 🐱 [GitHub](https://github.com/your-username)
-- ✉️ anas.yourmail@example.com
+- ✉️ mohammedanas050304@gmail.com
 
 ---
 
